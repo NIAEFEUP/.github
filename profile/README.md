@@ -10,9 +10,9 @@ NIAEFEUP is the student computing group at the Faculty of Engineering of the Uni
 
 Some of what we do:
 
-- A [mobile app](https://github.com/NIAEFEUP/uni) to help students manage schedules, grades, exams, and campus life.
+- A [mobile app](https://github.com/niaefeup/uni) to help students manage schedules, grades, exams, and campus life.
 - A [timetable selector](https://tts.niaefeup.pt) that takes the stress out of class enrollment.
-- The [infrastructure](https://github.com/niployments) that keeps everything running, from bare-metal to Kubernetes.
+- The [infrastructure](https://github.com/niaefeup/niployments) that keeps everything running, from bare-metal to Kubernetes.
 - [SINF](https://sinf.pt), our annual tech week with talks, workshops, competitions, and a job fair.
 
 ## Get Involved
