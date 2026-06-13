@@ -1,4 +1,4 @@
-## About NIAEFEUP
+## Hello there! 👋
 
 NIAEFEUP is the student computing group at the Faculty of Engineering of the University of Porto. We believe that learning is best done by building real things — so we create and maintain open-source software used daily by thousands of students across the university.
 
