@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://niaefeup.pt/members" target="_blank">
-    <img src="./team.jpg" alt="NIAEFEUP Team">
+    <img src="https://github.com/NIAEFEUP/.github/blob/main/profile/team.jpg?raw=true" alt="NIAEFEUP Team">
   </a>
 </p>
 
